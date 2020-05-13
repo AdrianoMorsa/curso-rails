@@ -1,0 +1,12 @@
+rails s -b 0.0.0.0 -p 3000
+
+rails new time_to_answer
+
+rails g controller welcome index
+
+rails destroy controller a
+
+rails new testeapp -T
+
+spring status
+
